@@ -12,6 +12,8 @@
 ![uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu](https://komarev.com/ghpvc/?username=experibass&color=08111c&label=People+infected+with+the+pathOwOgen)
 
 [![owowowowowowowowowowowowowowowowowowowowowowo](https://github-readme-stats.vercel.app/api?username=experibass&count_private=true&show_icons=true&bg_color=12.5,08111C,14268C&text_color=FFFFFF&border_color=1B81F3&border_radius=12.5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=experibass&count_private=true&show_icons=true&bg_color=12.5,08111C,14268C&text_color=FFFFFF&border_color=1B81F3&border_radius=12.5)](https://github.com/anuraghazra/github-readme-stats)
 ## About Me
 am stimky foxxo, i write code, do crime, and steal your garlic bread
 
