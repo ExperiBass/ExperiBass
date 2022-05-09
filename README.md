@@ -26,7 +26,7 @@ massive linux, cryptocurrency, and tech nerd, feel free to poke me with question
 
 ## Website
 My website is the main hub for my links, and is the only semi-professional part of my online profile.   
-Visit me at https://experibassmusic.eth.link :3
+Visit me at https://experibassmusic.eth.limo :3
 
 If you like my code, feel free to support me via ko-fi or most major cryptocurrencies at `experibassmusic.eth`. If your wallet doesn't support ENS domains, the raw addresses are on my website.
 
