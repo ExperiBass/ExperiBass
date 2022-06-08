@@ -9,11 +9,13 @@
 
 # You've visited my profile. Oh no.
 
-![uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu](https://komarev.com/ghpvc/?username=experibass&color=08111c&label=People+infected+with+the+pathOwOgen)
+![uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu](https://komarev.com/ghpvc/?username=experibass&color=000000&label=People+infected+with+the+pathOwOgen)
 
-[![owowowowowowowowowowowowowowowowowowowowowowo](https://github-readme-stats.vercel.app/api?username=experibass&count_private=true&show_icons=true&bg_color=12.5,08111C,14268C&text_color=FFFFFF&border_color=1B81F3&border_radius=12.5)](https://github.com/anuraghazra/github-readme-stats)
+## Quickstats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=experibass&count_private=true&show_icons=true&bg_color=12.5,08111C,14268C&text_color=FFFFFF&border_color=1B81F3&border_radius=12.5)](https://github.com/anuraghazra/github-readme-stats)
+[![owowowowowowowowowowowowowowowowowowowowowowo](https://github-readme-stats.vercel.app/api?username=experibass&count_private=true&show_icons=true&bg_color=12.5,000000,022027,000000&text_color=5fdbf6&icon_color=5fdbf6&title_color=5fdbf6&border_color=076b81&border_radius=12.5&include_all_commits=true&custom_title=Ging%27s%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=experibass&count_private=true&show_icons=true&bg_color=12.5,000000,022027,000000&text_color=5fdbf6&icon_color=5fdbf6&title_color=5fdbf6&border_color=076b81&border_radius=12.5&custom_title=Ging%27s%20Top%20Langs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 am stimky foxxo, i write code, do crime, and steal your garlic bread >:3
@@ -31,4 +33,4 @@ Visit me at https://experibassmusic.eth.limo :3
 If you like my code, feel free to support me via ko-fi or most major cryptocurrencies at `experibassmusic.eth` :3  
 If your wallet doesn't support ENS resolution, the raw addresses are on my website uwu
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S35HRZP)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=experibass&theme=github_dark)
