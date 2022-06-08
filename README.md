@@ -32,5 +32,3 @@ Visit me at https://experibassmusic.eth.limo :3
 
 If you like my code, feel free to support me via ko-fi or most major cryptocurrencies at `experibassmusic.eth` :3  
 If your wallet doesn't support ENS resolution, the raw addresses are on my website uwu
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=experibass&theme=github_dark)
