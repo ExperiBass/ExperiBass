@@ -45,8 +45,7 @@ massive linux, bitcoin, and tech nerd, feel free to poke me with questions uwu
 ## Links
 
 My website is the main hub for my profile, [check it out for a full bio](https://experibassmusic.eth.limo)  
-i eventually need to redo it but i also dont mind it
 
-If you like my code, feel free to support me via btc at `experibassmusic.eth` :3  
+If you like my code, feel free to support me via btc lightning at `experibassmusic@bitrefill.me` :3  
 
-If your wallet doesn't support ENS resolution, the raw addresses are on my website uwu
+For on-chain, check my site uwu
